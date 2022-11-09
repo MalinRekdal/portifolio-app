@@ -30,8 +30,18 @@ export const Navbar = () => {
           </Link>
         </li>
         <li>
+          <Link to="interests" smooth={true} duration={500}>
+           Faglege interessar
+          </Link>
+        </li>
+        <li>
           <Link to="projects" smooth={true} duration={500}>
             Prosjekt
+          </Link>
+        </li>
+        <li>
+          <Link to="jobs" smooth={true} duration={500}>
+          Tidlegare jobbar
           </Link>
         </li>
       </ul>
@@ -63,6 +73,11 @@ export const Navbar = () => {
           </Link>
         </li>
         <li className="py-6 text-4xl">
+          <Link onClick={handleClick} to="interests" smooth={true} duration={500}>
+            Interests
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
           <Link
             onClick={handleClick}
             to="projects"
@@ -70,6 +85,16 @@ export const Navbar = () => {
             duration={500}
           >
             Projects
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
+          <Link
+            onClick={handleClick}
+            to="jobs"
+            smooth={true}
+            duration={500}
+          >
+            Tidlegare jobbar
           </Link>
         </li>
       </ul>

@@ -3,7 +3,7 @@ import Event from "../assets/event-icon.png";
 
 const Interests = () => {
   return (
-    <div id="skills" className="w-full bg-[#edede9] ">
+    <div id="interests" className="w-full bg-[#edede9] ">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
           <p className="text-4xl font-bold inline border-b-2 border-grey-500">
@@ -49,9 +49,3 @@ const Interests = () => {
 };
 
 export default Interests;
-
-//Programmeringsspråk
-//Andre skills (Presentation) (kan klikke seg inn på bilder av foredrag og arbeid jeg har gjort)
-//Design
-
-//Arrangering
