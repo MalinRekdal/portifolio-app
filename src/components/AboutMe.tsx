@@ -19,7 +19,7 @@ const AboutMe = () => {
             </p>
           </div>
           <div>
-            <p>Spesialiseringa mi på masteren er innen signalbehandling. Eg har ein generell interesse for teknologi, spesielt innen 
+            <p>Spesialiseringa mi på masteren er innen signalbehandling og kommunikasjon. Eg har ein generell interesse for teknologi, spesielt innen 
               utvikling og maskinlæring. Brenner hardt for helseinnovasjon og meinar at er dette er eit viktig satsingsområde 
               innen teknologisk utvikling. 
             </p>
