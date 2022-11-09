@@ -38,7 +38,7 @@ export const HomePage = () => {
         <img
           className="object-contain md:object-scale-down h-49 w-96"
           src={Portrait}
-          alt="Portrait picture"
+          alt="Portrait"
         />
       </div>
     </div>
