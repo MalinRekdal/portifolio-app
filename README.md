@@ -1,8 +1,12 @@
-# Kom i gang med å lage din egen portefølje med React, Typescript, Tailwind og Azure.
+# Egen portefølje lagd med utgangspunkt i Codehub med Forte Digital
+Porteføljen er vidareutvikla etter kurset. Hovudfokuset med læring i dette prosjektet var for min del på 
+Tailwind og Azure, men også mykje React og Typescript. Vidare info i README fila er direkte fra CodeHuben med Forte Digital sine dokumentasjonar: 
+
+## Kom i gang med å lage din egen portefølje med React, Typescript, Tailwind og Azure.
 
 Dette er et kurs holdt av Forte digital for Ada NTNU 9. november 2022.
 
-## 💻 Teknologier 
+### 💻 Teknologier 
 
 I dette prosjektet bruker vi React med Typescript og Tailwind for å lage porteføljen:
 
@@ -16,7 +20,7 @@ Vi bruker Azure for å laste opp nettsiden i skyen slik at den blir tilgjengelig
 
 [Azure](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/?ef_id=CjwKCAjw8JKbBhBYEiwAs3sxN3JwZX497kU9p4dnluQOBN20doOaS1cvHOYEHQhcaHRSM80qpzBPRhoCF3gQAvD_BwE%3AG%3As&OCID=AIDcmmf6lw2mzf_SEM_CjwKCAjw8JKbBhBYEiwAs3sxN3JwZX497kU9p4dnluQOBN20doOaS1cvHOYEHQhcaHRSM80qpzBPRhoCF3gQAvD_BwE%3AG%3As&gclid=CjwKCAjw8JKbBhBYEiwAs3sxN3JwZX497kU9p4dnluQOBN20doOaS1cvHOYEHQhcaHRSM80qpzBPRhoCF3gQAvD_BwE)
 
-## 👩🏽‍💻 Guider
+### 👩🏽‍💻 Guider
 
 Følgende guider vil bli brukt under kurset med beskrivelse av nødvendige nedlastninger og oppgaver. 
 
