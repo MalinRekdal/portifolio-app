@@ -7,7 +7,7 @@ const Interests = () => {
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
           <p className="text-4xl font-bold inline border-b-2 border-grey-500">
-            Interesser
+            Faglege interesser
           </p>
           <p className="py-4">Mine faglege interesser. Ikona i desse punkta er ikkje up to date, dette blir fiksa i framtida.</p>
         </div>
